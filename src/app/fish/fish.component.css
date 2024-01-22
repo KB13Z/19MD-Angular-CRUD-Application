@@ -1,0 +1,76 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-form {
+    display: flex;
+    gap: 1rem;
+}
+
+.search-input {
+    padding: 0.5rem;
+    border: 2px solid #A6CDED;
+    border-radius: 15px;
+}
+
+.home-button {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 15px;
+    font-weight: bold;
+    background-color: #A6CDED;
+}
+
+.home-button {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+
+.create-post {
+    font-weight: bold;
+    font-size: 20px;
+    color: #85bdeb;
+    margin: 0;
+    border: 2px solid #A6CDED;
+    padding: 0.5rem;
+    border-radius: 15px;
+}
+
+.create-post:hover {
+    cursor: pointer;
+    opacity: 0.5;
+    transition: 0.4s;
+}
+
+.results {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+    gap: 2rem;
+}
+
+.pagination-buttons {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.pagination-button {
+    border: none;
+    border-radius: 15px;
+    font-weight: bold;
+    background-color: #A6CDED;
+    padding: 0.5rem;
+}
+
+.pagination-button:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+

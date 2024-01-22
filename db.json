@@ -1,0 +1,94 @@
+{
+  "fishes": [
+    {
+      "id": "0",
+      "photo": "/assets/angelfish.jpg",
+      "name": "Angelfish",
+      "species": "Pterophyllum scalare",
+      "color": "Silver",
+      "size": "Small",
+      "location": "Amazon River"
+    },
+    {
+      "id": "1",
+      "photo": "/assets/clownfish.jpg",
+      "name": "Clownfish",
+      "species": "Amphiprioninae",
+      "color": "Orange",
+      "size": "Tiny",
+      "location": "Coral Reefs"
+    },
+    {
+      "id": "2",
+      "photo": "/assets/salmon.jpg",
+      "name": "Salmon",
+      "species": "Salmo salar",
+      "color": "Pink",
+      "size": "Medium",
+      "location": "North Atlantic"
+    },
+    {
+      "id": "3",
+      "photo": "/assets/swordfish.jpg",
+      "name": "Swordfish",
+      "species": "Xiphias gladius",
+      "color": "Gray",
+      "size": "Large",
+      "location": "Worldwide Oceans"
+    },
+    {
+      "id": "4",
+      "photo": "/assets/guppy.jpg",
+      "name": "Guppy",
+      "species": "Poecilia reticulata",
+      "color": "Various",
+      "size": "Tiny",
+      "location": "Freshwater Streams"
+    },
+    {
+      "id": "5",
+      "photo": "/assets/tuna.jpg",
+      "name": "Tuna",
+      "species": "Thunnini",
+      "color": "Dark Blue",
+      "size": "Large",
+      "location": "Global Oceans"
+    },
+    {
+      "id": "6",
+      "photo": "/assets/catfish.jpg",
+      "name": "Catfish",
+      "species": "Siluriformes",
+      "color": "Brown",
+      "size": "Medium",
+      "location": "Rivers and Lakes"
+    },
+    {
+      "id": "7",
+      "photo": "/assets/trout.jpeg",
+      "name": "Trout",
+      "species": "Oncorhynchus",
+      "color": "Rainbow",
+      "size": "Medium",
+      "location": "Coldwater Streams"
+    },
+    {
+      "id": "8",
+      "photo": "/assets/betta_fish.jpg",
+      "name": "Betta Fish",
+      "species": "Betta splendens",
+      "color": "Bright Blue",
+      "size": "Small",
+      "location": "Southeast Asia"
+    },
+    {
+      "id": "9",
+      "photo": "/assets/mackerel.jpg",
+      "name": "Mackerel",
+      "species": "Scombridae",
+      "color": "Striped",
+      "size": "Medium",
+      "location": "Coastal Waters"
+    }
+  ]
+}
